@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. APJ Abdul Kalam</title>
+    <link rel="stylesheet" href="tribute.css"> 
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f0f0f0;">
+
+    <div class="header">
+        
+
+        <h1 class="p1"></h1>
+        
+
+
+    <center>
+        <img src="https://e1.pxfuel.com/desktop-wallpaper/257/917/desktop-wallpaper-apj-abdul-kalam-a.jpg" width="100%" height="550vh">  
+    </center>
+    </div>
+
+    <div class="bio">
+        <h2><span> Dr. APJ Abdul Kalam</span> (15 October 1931 – 27 July 2015) was an Indian aerospace scientist and statesman who served as the 11th president of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu, and studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts.<br>He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology. He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.</h2>
+    </div>
+
+    <h1 class="section-header">Early Life and Education:</h1>
+
+    <div class="early-life">
+        <img class="image" src="https://e0.pxfuel.com/wallpapers/18/357/desktop-wallpaper-dr-a-p-j-abdul-kalam-quotes-apj-abdul-kalam-as-teacher.jpg" width="100%" height="550vh"><br>
+        <div>
+            <h2>Dr. Kalam's family, the Marakayars, are a Muslim ethnic group found in coastal Tamil Nadu and Sri Lanka who claim descent from Arab traders and local women. The family business involved trading groceries between the mainland and the island and ferrying pilgrims between the mainland and Pamban. With the opening of the Pamban Bridge to the mainland in 1914, however, the businesses failed, and the family fortune and properties were lost by the 1920s, apart from the ancestral home. The family was poverty-stricken by the time Dr. Kalam was born. As a young boy, he had to sell newspapers to add to the family's meager income. In his school years, Dr. Kalam had average grades.</h2>
+        </div>
+    </div>
+
+    <h1 class="section-header">Career as a Scientist:</h1>
+
+    <div class="career">
+        <img class="image" src="https://cdnb.artstation.com/p/assets/images/images/020/366/189/large/jeeva-artist-09isro.jpg?1567513033" width="30%" height="300vh"><br>
+        <div>
+            <h2>After graduating from the Madras Institute of Technology in 1960, Dr. Kalam joined the Aeronautical Development Establishment of the Defence Research and Development Organisation (DRDO) as a scientist after becoming a member of the Defence Research & Development Service (DRDS). He started his career by designing a small hovercraft but remained unconvinced by his choice of a job at DRDO. Dr. Kalam joined the INCOSPAR, working under Vikram Sarabhai, the renowned space scientist. He was interviewed and recruited into ISRO by H. G. S. Murthy, the first Director of Thumba Equatorial Rocket Launching Station (TERLS). In 1969, Dr. Kalam was transferred to the Indian Space Research Organisation (ISRO) where he was the project director of India's first Satellite Launch Vehicle (SLV-III), which successfully deployed the Rohini satellite in near-earth orbit in July 1980; Dr. Kalam had first started work on an expandable rocket project independently at DRDO in 1965. In 1969, Dr. Kalam received the government's approval and expanded the program to include more engineers.</h2>
+        </div>
+    </div>
+
+    <h1 class="section-header">About His Passing:</h1>
+
+    <div class="passing">
+        <img class="image" src="https://www.atozpictures.com/uploads/2015/07/president-apj-abdulkalam-photo.jpg" width="100%" height="550vh"><br>
+        <div>
+            <h2>On 27 July 2015, Dr. Kalam travelled to Shillong to deliver a lecture on "Creating a Livable Planet Earth" at the Indian Institute of Management Shillong. While climbing a flight of stairs, he experienced some discomfort but was able to enter the auditorium after a brief rest. At around 6:35 p.m. IST, only five minutes into his lecture, he collapsed. He was rushed to the nearby Bethany Hospital in a critical condition; upon arrival, he lacked a pulse or any other signs of life. Despite being placed in the intensive care unit, Dr. Kalam was confirmed dead of a sudden cardiac arrest at 7:45 p.m. IST. His last words, to his aide Srijan Pal Singh, were reportedly: "Funny guy! Are you doing well?" Following his death, Dr. Kalam's body was airlifted in an Indian Air Force helicopter from Shillong to Guwahati, from where it was flown to New Delhi on the morning of 28 July in an air force C-130J Hercules. The flight landed at Palam Air Base that afternoon and was received by the President, the Vice President, the Prime Minister, Chief Minister of Delhi Arvind Kejriwal, and the three service chiefs of the Indian Armed Forces, who laid wreaths on Dr. Kalam's body.</h2>
+        </div>
+    </div>
+
+    <footer>Created by Vegi Nanditha Chowdary</footer>
+
+</body>
+</html>
